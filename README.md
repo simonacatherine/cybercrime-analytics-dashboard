@@ -27,9 +27,14 @@ This project analyzes cybercrime trends across Indian states using publicly avai
 
 ## Dashboard Preview
 
-<img width="1441" height="806" alt="image" src="https://github.com/user-attachments/assets/992514e0-db4a-4a96-98eb-8325fb9758b7" />
-<img width="1443" height="810" alt="image" src="https://github.com/user-attachments/assets/f8f34513-1311-41b7-ae61-a8993559c4e7" />
-<img width="1439" height="812" alt="image" src="https://github.com/user-attachments/assets/94b04702-28a6-4f04-83ae-334d6e128bc0" />
+<table>
+<tr>
+<td><img src="Screenshot 2026-06-12 014221.png" width="500"/></td>
+<td><img src="Screenshot 2026-06-12 014236.png" width="500"/></td>
+</tr>
+</table>
+
+<img src="Screenshot 2026-06-12 014243.png" width="1000"/>
 
 
 ## Dataset
